@@ -1,1 +1,1 @@
-# what-am-i-learning
+https://doc.rust-lang.org/book/
