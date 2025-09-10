@@ -1,1 +1,2 @@
-https://doc.rust-lang.org/book/
+
+https://timroughgarden.org/s25/
