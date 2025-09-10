@@ -1,2 +1,2 @@
 
-https://timroughgarden.org/s25/
+- The Science of Blockchains https://timroughgarden.org/s25/
